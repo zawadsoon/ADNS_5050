@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+#JetBrains
+.idea
+
+#Additional development files
+lib/
+
+#CMake
+CMakeCache.txt
+CMakeFiles
