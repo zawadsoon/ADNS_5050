@@ -12,5 +12,4 @@ include_directories(${OPENGL_INCLUDE_DIRS}  ${GLUT_INCLUDE_DIRS})
 
 add_definitions(-L${PROJECT_SOURCE_DIR}/lib/wiringPi/wiringPi.h -lwiringPi)
 
-add_subdirectory(examples/product_id)
-add_subdirectory(examples/test_read_time)
+add_subdirectory(examples/example_01)
