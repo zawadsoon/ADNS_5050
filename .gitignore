@@ -40,3 +40,6 @@ lib/
 #CMake
 CMakeCache.txt
 CMakeFiles
+*.cbp
+cmake_install.cmake
+Makefile
